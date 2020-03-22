@@ -1,6 +1,8 @@
 # Quote Scraper
 This web scraping project scrapes quotes from BrainQuote.com. The user can specify a quote category and the number of quotes they'd like to fetch. The scraped data is written to text files in the src/Quotes directory.
 
+See an old demo: https://www.youtube.com/watch?v=5dCThWMT50o
+
 ### Setup:
 1. Clone this repo and change into the drivers directory
 ```
