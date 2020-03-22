@@ -14,3 +14,5 @@ git clone https://github.com/Tymotex/Quote-scraping.git
 ```
 python3 QuoteScraper.py
 ```
+### Note:
+Working in Linux Ubuntu. Not well tested in Windows or MacOS. 
