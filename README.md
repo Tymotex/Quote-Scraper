@@ -10,7 +10,11 @@ git clone https://github.com/Tymotex/Quote-scraping.git
 ```
 2. Find out your chrome version. Type in the URL bar: chrome://version/
 3. The project currently has chromedriver version 80.0.3987.106. If this doesn't match your current chrome version, download a suitable chromedriver version from https://chromedriver.chromium.org/downloads. Place the driver inside the drivers directory, named as 'chromedriver': Quote-Scraper/src/drivers/chromedriver. 
-4. Navigate to the src directory and run QuoteScraper.py
+4. Navigate to the project root folder and install all dependencies:
+```
+pip3 install -r requirements.txt
+```
+5. Navigate to the src directory and run QuoteScraper.py
 ```
 python3 QuoteScraper.py
 ```
